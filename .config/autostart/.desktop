@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/harada/start_camera.sh
+Name=Security Camera

@@ -1,0 +1,2 @@
+cvt 1366 768 | grep Modeline | sed s/Modeline// | xargs xrandr --newmode
+xrandr --addmode VGA1 1368x768_60.00
