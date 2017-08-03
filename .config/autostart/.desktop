@@ -1,4 +1,4 @@
 [Desktop Entry]
 Type=Application
-Exec=/home/USERNAME/start_camera.sh
+Exec=/usr/local/bin/start_camera.sh
 Name=Security Camera
